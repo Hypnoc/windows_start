@@ -23,7 +23,7 @@ This project provides a `.bat` script to disable Windows Defender on Windows 10/
 ## Usage
 1. Read `instructions` carefully.
 2. Run `stop_win_def.bat` as Administrator.
-3. Reboot if required.
+3. Reboot.
 
 
 ## Warning
